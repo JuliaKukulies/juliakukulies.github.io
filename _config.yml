@@ -27,7 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:julia.kukulies@gu.se"}
   - {title: Github, icon: github, url: "https://github.com/JuliaKukulies/juliakukulies.github.io"}
-  - {title: ResearchGate, icon:research-gate, url: "https://www.researchgate.net/profile/Julia-Kukulies-2"}
+  - {title: ResearchGate, url: "https://www.researchgate.net/profile/Julia-Kukulies-2"}
 
 
 comments:
