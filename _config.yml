@@ -13,7 +13,6 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
-
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Home"}
@@ -21,13 +20,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Research interests"}
   - {file: "publication_list.html", title: "Publications"}
   - {file: "teaching.html", title: "Teaching"}
-- {file: "extra.html", title: "Experience"}
+  - {file: "extra.html", title: "Experience"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:julia.kukulies@gu.se"}
   - {title: Github, icon: github, url: "https://github.com/JuliaKukulies/juliakukulies.github.io"}
-  - {title: ResearchGate, url: "https://www.researchgate.net/profile/Julia-Kukulies-2"}
+  # - {title: ResearchGate, url: "https://www.researchgate.net/profile/Julia-Kukulies-2"}
 
 
 comments:
