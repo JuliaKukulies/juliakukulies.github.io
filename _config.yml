@@ -13,12 +13,11 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
-
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "About Me"}
   - {file: "research.md", title: "Research interests"}
-  - {file: "julia.pdf", title: "CV"}
+  - {file: "show_resume.html", title: "CV"}
   - {file: "publication_list.html", title: "Publications"}
   - {file: "teaching.html", title: "Teaching"}
   - {file: "extra.html", title: "Experience"}
