@@ -3,7 +3,7 @@ layout: page
 title: "Research interests"
 ---
 
-## Interaction between meso-scale and large-scale processes 
+## Interaction between meso-scale and large-scale atmospheric processes 
 
 I am interested in how large-scale processes such as monsoon-driven atmospheric water vapor transport 
 affect meso-scale processes such as the organization of convection. I am particularly interested in the dynamics of mesoscale convective systems (MCSs), large complexes of thunderstorms, around major mountain regions, because large topographic barriers such as the Rockys, the Andes or the 
