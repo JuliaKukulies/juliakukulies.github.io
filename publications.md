@@ -1,7 +1,7 @@
- ---
- layout: page
- title: "Publications"
- ---
+---
+layout: page
+title: "Publications"
+---
  
  
 ## Upcoming (submitted and in revision) 
