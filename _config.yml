@@ -16,12 +16,12 @@ minimal: true             # use a dark header
 
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "about_me.html", title: "About Me"}
-  - {file: "research.md", title: "Research interests"}
-  - {file: "resume.html", title: "CV"}
-  - {file: "publication_list.html", title: "Publications"}
-  - {file: "teaching.html", title: "Teaching"}
-  - {file: "extra.html", title: "Experience"}
+  - {file: "/index.html", title: "About Me"}
+  - {file: "/research.md", title: "Research interests"}
+  - {file: "/resume.html", title: "CV"}
+  - {file: "/publication_list.html", title: "Publications"}
+  - {file: "/teaching.html", title: "Teaching"}
+  - {file: "/extra.html", title: "Experience"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
