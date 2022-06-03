@@ -5,18 +5,17 @@ title: "Research interests"
 
 ## Interaction of meso-scale and large-scale processes 
 
-I am interested in how large-scale processes such as monsoon-driven water vapor transport affects
-meso-scale processes like the organization of convection into large storm complexes. 
-I am particularly interested in the dynamics of mesoscale convective systems around major 
-mountain regions and how large topographic barriers such as the Rockys, the Andes or the 
-Himalayas interact with the atmospheric flow. 
+I am interested in how large-scale processes such as monsoon-driven atmospheric water vapor transport 
+affect meso-scale processes such as the organization of convection. I am particularly interested in the dynamics of mesoscale convective systems (MCSs), large complexes of thunderstorms, around major mountain regions, because large topographic barriers such as the Rockys, the Andes or the 
+Himalayas substantially interact with the atmospheric large-scale flow and create favorable conditions for storm formation 
+in the downstream regions. 
 
 
 ## Convection-permitting climate simulations 
 
 To understand how these processes are affected by anthropogenically forced climate change, I am working with 
-convection-permitting climate simulations. Our lab is coordinating the [CORDEX Flagship Pilot Study](https://cordex.org/experiment-guidelines/flagship-pilot-studies/) [Convection-Permitting Third Pole](http://rcg.gvc.gu.se/cordex_fps_cptp/) that aims to assess
-the benefits and limitations of convection-permitting simulations in the Tibetan Plateau region. 
+convection-permitting climate simulations. Our lab is coordinating the [CORDEX Flagship Pilot Study](https://cordex.org/experiment-guidelines/flagship-pilot-studies/) [Convection-Permitting Third Pole](http://rcg.gvc.gu.se/cordex_fps_cptp/) with the goal to systematically  assess
+benefits and limitations of convection-permitting simulations in the Tibetan Plateau region. 
 
 
 ## Development of data analysis tools 
