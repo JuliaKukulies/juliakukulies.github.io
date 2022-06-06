@@ -5,13 +5,13 @@ title: "Teaching"
 
 ## Master courses @ University of Gothenburg
 
-* **Advanced climate data analysis** 
+* **Advanced climate data analysis (GVN370)** 
 
 Course coordinator: Dr. Céline Heuzé;
 Spring 2021
 
 
-* **Climate Modeling**
+* **Climate Modeling (GVN465)**
 
 Course coordinator: Dr. Céline Heuzé;
 Autumn 2020
