@@ -3,10 +3,10 @@ layout: page
 title: "Research interests"
 ---
 
+
 ## Mountain meteorology
 
-I am studying atmospheric processes in the Tibetan Plateau region. Since this region is characterized by very complex topography, I am interested in how the topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying 
-wind circulation, temperature, moisture etc.
+I am studying the climate in high mountain regions and I am therefore interested in how complex topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying wind circulation, temperature, moisture etc. For this, it is crucial to bridge the gap between observational and modeling perspectives, so I am working with both ground-based and spaceborne observations as well as numerical weather and climate models.
 
 
 ## Interaction between meso-scale and large-scale atmospheric processes 
