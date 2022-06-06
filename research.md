@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Research interests"
-image: /header.JPG
 ---
+
+<img src="header.jpg" width=200% class="center">
 
 
 ## Mountain meteorology
