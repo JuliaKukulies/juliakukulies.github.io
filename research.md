@@ -6,9 +6,8 @@ title: "Research interests"
 
 ## Mountain meteorology
 
-I am studying atmospheric processes in one of the largest mountain regions of the world. The Tibetan Plateau and its surrounding mountain ranges 
-are characterized by very complex topography. Therefore I am very interested in how topographic barriers affect the atmosphere by modifying 
-wind circulation, temperature, moisture etc. to create quite unique climate conditions.
+I am studying atmospheric processes in the Tibetan Plateau region. Since this region is characterized by very complex topography, I am very interested in how the topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying 
+wind circulation, temperature, moisture etc.
 
 
 ## Interaction between meso-scale and large-scale atmospheric processes 
