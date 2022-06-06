@@ -4,8 +4,6 @@ title: "Research interests"
 image: /header.JPG
 ---
 
-<img src="/header.JPG" width="800" height="50">
-
 
 ## Mountain meteorology
 
