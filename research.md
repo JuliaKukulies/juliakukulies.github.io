@@ -4,16 +4,19 @@ title: "Research interests"
 image: /header.JPG
 ---
 
+<img src="/header.JPM" alt="Patagonian mountains" width="800" height="50">
+
+
 
 ## Mountain meteorology
 
-I am studying atmospheric processes in the Tibetan Plateau region. Since this region is characterized by very complex topography, I am very interested in how the topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying 
+I am studying atmospheric processes in the Tibetan Plateau region. Since this region is characterized by very complex topography, I am interested in how the topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying 
 wind circulation, temperature, moisture etc.
 
 
 ## Interaction between meso-scale and large-scale atmospheric processes 
 
-I am interested in how large-scale processes such as monsoon-driven atmospheric water vapor transport 
+I am also interested in how large-scale processes such as monsoon-driven atmospheric water vapor transport 
 affect meso-scale processes such as the organization of convection. I am particularly interested in the dynamics of mesoscale convective systems (MCSs), large complexes of thunderstorms, around major mountain regions, because large topographic barriers such as the Rockys, the Andes or the 
 Himalayas substantially interact with the atmospheric large-scale flow and create favorable conditions for storm formation 
 in the downstream regions. 
