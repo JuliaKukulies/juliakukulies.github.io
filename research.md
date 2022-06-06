@@ -4,8 +4,7 @@ title: "Research interests"
 image: /header.JPG
 ---
 
-<img src="/header.JPM" alt="Patagonian mountains" width="800" height="50">
-
+<img src="/header.JPG" width="800" height="50">
 
 
 ## Mountain meteorology
