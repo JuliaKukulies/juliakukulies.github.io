@@ -3,9 +3,6 @@ layout: page
 title: "Research interests"
 ---
 
-<img src="header.jpg" width=200% class="center">
-
-
 ## Mountain meteorology
 
 I am studying atmospheric processes in the Tibetan Plateau region. Since this region is characterized by very complex topography, I am interested in how the topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying 
