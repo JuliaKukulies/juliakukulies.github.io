@@ -57,15 +57,15 @@ Autumn 2018, Autumn 2019, Autumn 2020, Autumn 2021
 
 ## Thesis supervision 
 
-* Benjamin Odenman Holmberg: *Analysis of mesoscale weather systems in the Tibetan plateau region at different
+* Benjamin Odenman Holmberg (Master thesis): *Analysis of mesoscale weather systems in the Tibetan plateau region at different
 resolution using ERA5, HAR and WRF*, 2022
 
-* Anna Dugoul: *Characterisation of extreme precipitation events in the Sichuan Basin based on in-situ observations and their connection to mesoscale convective systems and other mesoscale disturbances*, 2022
+* Anna Dugoul (Master thesis): *Characterisation of extreme precipitation events in the Sichuan Basin based on in-situ observations and their connection to mesoscale convective systems and other mesoscale disturbances*, 2022
 
-* Devashree Niraula: *Assessing the role of extreme
+* Devashree Niraula (Master thesis): *Assessing the role of extreme
 precipitation on the Babai river basin and its impact on the Bhari Babai Mulidiversion Project.* , 2021
 
-* Raquel Flügel: *Evaluating Modelled Precipitation against groundbased Observation and Satellite Data above the Tibetan Plateau*, 2019 
+* Raquel Flügel (Bachelor thesis): *Evaluating Modelled Precipitation against groundbased Observation and Satellite Data above the Tibetan Plateau*, 2019 
 
 
 
