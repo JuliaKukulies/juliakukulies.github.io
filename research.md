@@ -8,7 +8,7 @@ My PhD project is about past and future changes in the **atmospheric water cycle
 The goal is to improve our understanding of the physical processes that lead to extreme precipitation in this particular region, because this is a pre-requisite to robustly assess regional climate change impacts.
 
 
-![](colo.png)
+![](colo.jpg)
 
 
 ## Mountain meteorology
