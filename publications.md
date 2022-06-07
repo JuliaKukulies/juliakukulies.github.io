@@ -14,8 +14,10 @@ Prein, A. F., Ban, N., Ou, T., Tang, J., Sakaguchi, K., Collier, E., ... **Kukul
 
  
 ## Peer-reviewed (chronologically backwards)
- 
-**Kukulies, J.**, Chen, D. and Curio, J. (2021). The Role of Mesoscale Convective Systems in Precipitation in the Tibetan Plateau Region. Journal of Geophysical Research: Atmospheres, 126(23), e2021JD035279. [ Access paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JD035279)<span class="__dimensions_badge_embed__" data-doi="10.1029/2021JD035279" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<table><tr><td>**Kukulies, J.**, Chen, D. and Curio, J. (2021). The Role of Mesoscale Convective Systems in Precipitation in the Tibetan Plateau Region. Journal of Geophysical Research: Atmospheres, 126(23), e2021JD035279. [ Access paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JD035279)
+</td><td><span class="__dimensions_badge_embed__" data-doi="10.1029/2021JD035279" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></td></tr></table>
+            
 
 
 Zhang, X., Yin, Y., **Kukulies, J.**, Li, Y., Kuang, X., He, C., and Chen, J. (2021). Revisiting Lightning Activity and Parameterization Using Geostationary Satellite Observations. Remote Sensing, 13(19). [ Access paper here](https://www.mdpi.com/2072-4292/13/19/3866)<span class="__dimensions_badge_embed__" data-doi="10.3390/rs13193866" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
