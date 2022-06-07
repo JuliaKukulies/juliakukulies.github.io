@@ -4,7 +4,7 @@ title: "Publications"
 ---
  
  
-## Upcoming (submitted and in revision) 
+## Forthcoming (submitted or in revision) 
  
 
 **Kukulies, J**, Curio, J. and Chen, D. (2022). Evaluating kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau. submitted to *Journal of Climate*. 
