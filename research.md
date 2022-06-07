@@ -4,7 +4,7 @@ title: "Research interests"
 ---
 
 
-My PhD project is about past and future changes in the atmospheric water cycle in the Tibetan Plateau-Himalaya region with a focus on organized convection and extreme precipitation. The Tibetan Plateau stores a lot of freshwater and is, likewise other mountain regions in the world, particularly vulnerable to climate change. My aim is to improve our understanding of the physical processes that lead to extreme precipitation in this particular region, because this is a pre-requisite to robustly assess future changes in the regional climate. Read more about my specific research interests here. 
+My PhD project is about past and future changes in the **atmospheric water cycle in the Tibetan Plateau-Himalaya region** with a focus on organized convection and extreme precipitation. The Tibetan Plateau stores a lot of freshwater and is, likewise other mountain regions in the world, particularly vulnerable to climate change. My aim is to improve our understanding of the physical processes that lead to extreme precipitation in this particular region, because this is a pre-requisite to robustly assess future changes in the regional climate. Read more about my specific research interests here. 
 
 ![](header.jpg)
 
