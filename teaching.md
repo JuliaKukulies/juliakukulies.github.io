@@ -52,7 +52,24 @@ Spring 2019
 * **Natural Science for Teachers: Applied Meteorology (LBIO05)**
 
 Course coordinator: Dr. Urban Olsson;
-Autumn 2018, Autumn 2019, Autumn 2020, Autumn 2021 
+Autumn 2018, Autumn 2019, Autumn 2020, Autumn 2021
+
+
+## Thesis supervisor 
+
+* Raquel Flügel: *Evaluating Modelled Precipitation against groundbased Observation and Satellite Data above the Tibetan Plateau*, 2019 
+
+* Devashree Niraula *Assessing the role of extreme
+precipitation on the Babai river basin and its impact on the Bhari Babai Mulidiversion Project.* , 2020
+
+* Benjamin Odenman Holmberg: *Analysis of mesoscale weather systems in the Tibetan plateau region at different
+resolution using ERA5, HAR and WRF*, 2022
+
+* Anna Dugoul: *Characterisation of extreme precipitation events in the Sichuan Basin based on in-situ observations and their connection to mesoscale convective systems and other mesoscale disturbances*, 2022
+
+
+
+
 
 
 
