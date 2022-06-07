@@ -5,11 +5,6 @@ title: "Teaching"
 
 ## Master courses @ University of Gothenburg
 
-* **Advanced climate data analysis (GVN370)** 
-
-Course coordinator: Dr. Céline Heuzé;
-Spring 2021
-
 
 * **Climate Modeling (GVN465)**
 
@@ -17,7 +12,7 @@ Course coordinator: Dr. Céline Heuzé;
 Autumn 2020
 
 
-* **Climate from an Earth System Perspective (GVN 460)**
+* **Climate from an Earth System Perspective [(GVN 460)](https://www.gu.se/en/study-gothenburg/climate-change-in-an-earth-system-perspective-gvn460)**
 
 Course coordinator: Prof. Deliang Chen;
 Autumn 2018 
@@ -25,7 +20,14 @@ Autumn 2018
 
 ## Bachelor courses @ University of Gothenburg
 
-* **Climate change and society (NG0220)**
+
+* **Advanced climate data analysis [(GVN370)](https://www.gu.se/en/study-gothenburg/advanced-climate-data-analysis-gvn370)** 
+
+Course coordinator: Dr. Céline Heuzé;
+Spring 2021
+
+
+* **Climate change and society [(NG0220)](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220)**
 
 Course coordinator: Prof. Hans Linderholm;
 Spring 2019, Spring 2020, Spring 2021
