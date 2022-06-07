@@ -2,7 +2,12 @@
 layout: page
 title: "Publications"
 ---
- 
+
+<style>
+td, th {
+   border: none!important;
+   }
+   </style>
  
 ## Forthcoming (submitted or in revision) 
  
