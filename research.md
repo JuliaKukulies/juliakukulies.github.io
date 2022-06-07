@@ -4,6 +4,13 @@ title: "Research interests"
 ---
 
 
+
+My PhD project is about past and future changes in the atmospheric water cycle in the Tibetan Plateau-Himalaya region with a focus on organized convection and extreme precipitation. The Tibetan Plateau stores a lot of freshwater and is, likewise other mountain regions in the world, particularly vulnerable to climate change. My aim is to improve our understanding of the physical processes that lead to extreme precipitation in this particular region, because this is a pre-requisite to robustly assess future changes in the regional climate. Read more about my specific research interests here. 
+
+
+
+
+
 ## Mountain meteorology
 
 I am studying the climate in high mountain regions and I am therefore interested in how complex topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying wind circulation, temperature, moisture etc. For this, it is crucial to bridge the gap between observational and modeling perspectives, so I am working with both ground-based and spaceborne observations as well as numerical weather and climate models.
@@ -12,7 +19,7 @@ I am studying the climate in high mountain regions and I am therefore interested
 ## Interaction between meso-scale and large-scale atmospheric processes 
 
 I am also interested in how large-scale processes such as monsoon-driven atmospheric water vapor transport 
-affect meso-scale processes such as the organization of convection. I am particularly interested in the dynamics of mesoscale convective systems (MCSs), large complexes of thunderstorms, around major mountain regions, because large topographic barriers such as the Rockys, the Andes or the 
+affect meso-scale processes such as the organization of convection. I am particularly interested in the dynamics of mesoscale convective systems (MCSs), large complexes of thunderstorms, around major mountain regions, because high topographic barriers such as the Rockys, the Andes or the 
 Himalayas substantially interact with the atmospheric large-scale flow and create favorable conditions for storm formation 
 in the downstream regions. 
 
