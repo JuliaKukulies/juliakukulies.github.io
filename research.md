@@ -11,14 +11,14 @@ My PhD project is about past and future changes in the **atmospheric water cycle
 
 ## Mountain meteorology
 
-I am studying the climate in high mountain regions and I am therefore interested in how complex topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying wind circulation, temperature, moisture etc. For this, it is crucial to bridge the gap between observational and modeling perspectives, so I am working with both ground-based and spaceborne observations as well as numerical weather and climate models.
+As I am studying the climate in high mountain regions, I am interested in how complex topography, snow and ice surfaces and other mountain-typical surface features affect the atmosphere by modifying wind circulation, temperature, moisture etc. For this, it is crucial to bridge the gap between observational and modeling perspectives, so I am working with both ground-based and spaceborne observations as well as numerical weather and climate models.
 
 
 ## Interaction between meso-scale and large-scale atmospheric processes 
 
 I am also interested in how large-scale processes such as monsoon-driven atmospheric water vapor transport 
-affect meso-scale processes such as the organization of convection. I am particularly interested in the dynamics of mesoscale convective systems (MCSs), large complexes of thunderstorms, around major mountain regions, because high topographic barriers such as the Rockys, the Andes or the 
-Himalayas substantially interact with the atmospheric large-scale flow and create favorable conditions for storm formation 
+affect meso-scale processes such as the organization of convection. I am particularly interested in the dynamics of mesoscale convective systems (MCSs) - large complexes of thunderstorms- around high mountain regions, because high topographic barriers such as the Rockys, the Andes or the 
+Himalayas interact with the atmospheric large-scale flow and create favorable conditions for storm formation 
 in the downstream regions. 
 
 
@@ -31,6 +31,6 @@ benefits and limitations of convection-permitting simulations in the Tibetan Pla
 
 ## Development of data analysis tools 
 
-Dealing with huge amounts of data from climate model output to satellite observations and an even larger number of different
-data formats, I have developed a huge appreciation and interest for open source software tools. I am in the developer 
-group of a community-developed python package for cloud tracking in large datasets called [**tobac**: Tracking and Object-based Analysis of Clouds](https://github.com/tobac-project/tobac) and I am motivated to become more active in the community! 
+Dealing with huge amounts of data from climate models and satellite observations (an even larger number of different
+data formats!), I have developed a huge appreciation for open source software tools that facilitate the handling of complex datasets. I am in the developer 
+group of a community-developed python package for cloud tracking in large datasets ([**tobac**: Tracking and Object-based Analysis of Clouds](https://github.com/tobac-project/tobac)) and I am motivated to become more active in the open source community! 
