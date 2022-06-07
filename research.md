@@ -8,7 +8,7 @@ My PhD project is about past and future changes in the **atmospheric water cycle
 The goal is to improve our understanding of the physical processes that lead to extreme precipitation in this particular region, because this is a pre-requisite to robustly assess regional climate change impacts.
 
 
-![](header.jpg)
+![](colo.png)
 
 
 ## Mountain meteorology
@@ -18,8 +18,6 @@ As I am studying the climate in high mountain regions, I am interested in how co
 ## Interaction between mesoscale and large-scale atmospheric processes 
 
 One objective in my research is to disentangle what happens on different spatial scales. I am thus interested in how large-scale processes (e.g. monsoon-driven atmospheric water vapor transport) affect mesoscale processes (e.g. the organization of convective storms). I am particularly interested in the dynamics of mesoscale convective systems (MCSs) - large complexes of thunderstorms - around high mountain regions, because high topographic barriers such as the Rockies, the Andes or the Himalayas interact with the atmosphere in a way that creates favorable conditions for storm formation in the downstream regions. 
-
-![](colo.jpg)
 
 
 ## Convection-permitting climate simulations 
