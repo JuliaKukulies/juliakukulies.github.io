@@ -63,7 +63,7 @@ resolution using ERA5, HAR and WRF*, 2022
 * Anna Dugoul: *Characterisation of extreme precipitation events in the Sichuan Basin based on in-situ observations and their connection to mesoscale convective systems and other mesoscale disturbances*, 2022
 
 * Devashree Niraula: *Assessing the role of extreme
-precipitation on the Babai river basin and its impact on the Bhari Babai Mulidiversion Project.* , 2020
+precipitation on the Babai river basin and its impact on the Bhari Babai Mulidiversion Project.* , 2021
 
 * Raquel Flügel: *Evaluating Modelled Precipitation against groundbased Observation and Satellite Data above the Tibetan Plateau*, 2019 
 
