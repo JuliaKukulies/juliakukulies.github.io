@@ -15,7 +15,7 @@ td, th {
 **Kukulies, J**, Curio, J. and Chen, D. (2022). Evaluating kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau. submitted to *Journal of Climate*. 
  
 
-Prein, A. F., Ban, N., Ou, T., Tang, J., Sakaguchi, K., Collier, E., ... **Kukulies, J**, Curio, J. and Chen, D. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole Region. submitted to *Climate Dynamics*. [ Access preprint here](https://assets.researchsquare.com/files/rs-1570621/v1_covered.pdf?c=1651595899)
+Prein et al. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole Region. submitted to *Climate Dynamics*. [ Access preprint here](https://assets.researchsquare.com/files/rs-1570621/v1_covered.pdf?c=1651595899)
 
  
 ## Peer-reviewed (chronologically backwards)
