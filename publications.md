@@ -18,7 +18,7 @@ td, th {
 Prein et al. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole Region. submitted to *Climate Dynamics*. [ Access preprint here](https://assets.researchsquare.com/files/rs-1570621/v1_covered.pdf?c=1651595899)
 
 
-Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. submitted to *Geophysical Research Letters*.
+Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. submitted to *Climate Dynamics*.
 
  
 ## Peer-reviewed (chronologically backwards)
