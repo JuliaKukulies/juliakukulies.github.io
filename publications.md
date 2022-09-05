@@ -12,13 +12,13 @@ td, th {
 ## Forthcoming (submitted or in revision) 
  
 
-**Kukulies, J**, Curio, J. and Chen, D. (2022). Evaluating kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau. submitted to *Journal of Climate*. 
+**Kukulies, J**, Prein, A.,  Curio, J. and Chen, D. (2022). Evaluating kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau. In revision for *Journal of Climate*. 
  
 
-Prein et al. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole Region. submitted to *Climate Dynamics*. [ Access preprint here](https://assets.researchsquare.com/files/rs-1570621/v1_covered.pdf?c=1651595899)
+Prein et al. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole Region. In revision for *Climate Dynamics*. [ Access preprint here](https://assets.researchsquare.com/files/rs-1570621/v1_covered.pdf?c=1651595899)
 
 
-Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. submitted to *Climate Dynamics*.
+Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. In revision for *Climate Dynamics*.
 
  
 ## Peer-reviewed (chronologically backwards)
