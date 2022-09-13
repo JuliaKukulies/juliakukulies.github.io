@@ -15,7 +15,7 @@ td, th {
 **Kukulies, J**, Prein, A.,  Curio, J. and Chen, D. (2022). Evaluating kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau. In revision for *Journal of Climate*. 
  
 
-Prein et al. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole Region. In revision for *Climate Dynamics*. [ Access preprint here](https://assets.researchsquare.com/files/rs-1570621/v1_covered.pdf?c=1651595899)
+Prein, A. F., Ban, N., Ou, T., Tang, J., Sakaguchi, K., Collier, E., Jayanarayanan, S., Sobolowski, S., Li, L., Chen, X., Zhou, X., Lai, H., Sugimoto, S., Zhou, L., Hasson, S., Ekstrom, M., Pothapakula, P., Ahrens, B., Stuart, R., Steen-Larsen, H. C., Leung, R. Belusic, D., **Kukulies, J.** , Curio, J. and Chen, D. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole Region. In revision for *Climate Dynamics*. [ Access preprint here](https://assets.researchsquare.com/files/rs-1570621/v1_covered.pdf?c=1651595899)
 
 
 Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. In revision for *Climate Dynamics*.
@@ -25,7 +25,6 @@ Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022)
 
 **Kukulies, J.**, Chen, D. and Curio, J. (2021). The Role of Mesoscale Convective Systems in Precipitation in the Tibetan Plateau Region. *Journal of Geophysical Research: Atmospheres*, 126(23), e2021JD035279. [ Access paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JD035279) | <span class="__dimensions_badge_embed__" data-doi="10.1029/2021JD035279" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
             
-
 
 Zhang, X., Yin, Y., **Kukulies, J.**, Li, Y., Kuang, X., He, C., and Chen, J. (2021). Revisiting Lightning Activity and Parameterization Using Geostationary Satellite Observations. *Remote Sensing*, 13(19). [ Access paper here](https://www.mdpi.com/2072-4292/13/19/3866) | <span class="__dimensions_badge_embed__" data-doi="10.3390/rs13193866" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
