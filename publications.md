@@ -11,14 +11,16 @@ td, th {
  
 ## Forthcoming (submitted or under review) 
  
- 
+**Kukulies, J**, Lai, H.,  Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S., Ou, T. and Chen, D. Mesoscale convective systems in the Third Pole region: Chacrateristics, Mechanisms and Impact on precipitation. Submitted to *Frontiers in Earth Science*. 
+
+Minola, L., Zhang, G., Ou, T., **Kukulies, J.**, Curio, J., Guijarro, J. A., Deng, K., Azorin-Molina, C.,  Shen, C., Pezzoli, A. and Chen, D. Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau. Submitted to *Climate Dynamics*. 
+
 **Kukulies, J**, Prein, A.,  Curio, J. and Chen, D. (2022). Kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau: Implications for climate simulations. Under review for *Journal of Climate*. 
  
- 
-Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. Under review for *Climate Dynamics*.
-
 
 ## Peer-reviewed (chronologically backwards)
+
+Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2022). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. Accepted for *Climate Dynamics*. In press.
 
 Prein, A. F., Ban, N., Ou, T., Tang, J., Sakaguchi, K., Collier, E., Jayanarayanan, S., Sobolowski, S., Li, L., Chen, X., Zhou, X., Lai, H., Sugimoto, S., Zhou, L., Hasson, S., Ekstrom, M., Pothapakula, P., Ahrens, B., Stuart, R., Steen-Larsen, H. C., Leung, R. Belusic, D., **Kukulies, J.** , Curio, J. and Chen, D. (2022). Towards Ensemble-Based Kilometer-Scale Climate Simulations over the Third Pole region. *Climate Dynamics*, 1-27. [ Access paper here](https://link.springer.com/article/10.1007/s00382-022-06543-3) | <span class="__dimensions_badge_embed__" data-doi="10.1007/s00382-022-06543-3" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
