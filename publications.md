@@ -11,6 +11,9 @@ td, th {
  
 ## Forthcoming (submitted or under review) 
  
+Yu, H.,  Prein A.F., Qi, D., **Kukulies, J** and Wang, K. Kilometer-Scale Simulations Can Outperform Satellite Based Observations in Heavy Rainfall Characteristics. Submitted to *Bulletin of the AMS*. 
+
+
 **Kukulies, J**, Lai, H.,  Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S., Ou, T. and Chen, D. Mesoscale convective systems in the Third Pole region: Characteristics, Mechanisms and Impact on precipitation. Under review for *Frontiers in Earth Science*. 
 
 
