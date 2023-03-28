@@ -15,10 +15,10 @@ td, th {
 Yu, H.,  Prein A.F., Qi, D., **Kukulies, J** and Wang, K. Kilometer-Scale Simulations Can Outperform Satellite Based Observations in Heavy Rainfall Characteristics. Submitted to *Bulletin of the AMS*. 
 
 
-**Kukulies, J**, Lai, H.,  Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S., Ou, T. and Chen, D. Mesoscale convective systems in the Third Pole region: Characteristics, Mechanisms and Impact on precipitation. Under review for *Frontiers in Earth Science*. 
+**Kukulies, J**, Lai, H.,  Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S., Ou, T. and Chen, D. Mesoscale convective systems in the Third Pole region: Characteristics, Mechanisms and Impact on precipitation. Accepted for *Frontiers in Earth Science*. 
 
 
-Minola, L., Zhang, G., Ou, T., **Kukulies, J.**, Curio, J., Guijarro, J. A., Deng, K., Azorin-Molina, C.,  Shen, C., Pezzoli, A. and Chen, D. Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau. Submitted to *Climate Dynamics*. [Access pre-print here](https://www.researchsquare.com/article/rs-2470952/v1)
+Minola, L., Zhang, G., Ou, T., **Kukulies, J.**, Curio, J., Guijarro, J. A., Deng, K., Azorin-Molina, C.,  Shen, C., Pezzoli, A. and Chen, D. Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau. Under review for *Climate Dynamics*. [Access pre-print here](https://www.researchsquare.com/article/rs-2470952/v1)
 
 
 **Kukulies, J**, Prein, A.,  Curio, J. and Chen, D. (2022). Kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau: Implications for climate simulations. Under review for *Journal of Climate*. 
