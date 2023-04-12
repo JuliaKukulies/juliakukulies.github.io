@@ -4,7 +4,12 @@ title: "Research interests"
 ---
 
 
-In my PhD project, I am have studied the dynamics and changes in the **atmospheric water cycle in the Tibetan Plateau-Himalaya region** with a focus on organized convection and extreme precipitation. The Tibetan Plateau stores a lot of freshwater and is, likewise other mountain regions in the world, particularly vulnerable to climate change. Changes in the water cycle also come with changes in extreme precipitation and risks for natural hazards in the populated downstream regions. The goal of my research is to improve our understanding of atmospheric processes that control extreme precipitation in this particular region, because this is a pre-requisite to robustly assess future changes. Apart from the societal need of regional climate change impact assessment, this project also addresses a major scientific knowledge gap, as we know very little about precipitation in mountain regions. 
+My long-term scientific goal is to **understand, model, and predict convective storms**. 
+
+
+## Ph.D. thesis
+
+In my [Ph.D. thesis](https://gupea.ub.gu.se/handle/2077/75117?show=full), I studied the role of large-scale and mesoscale atmospheric processes in the **water cycle in the Tibetan Plateau-Himalaya region** with a focus on organized convection and precipitation. The Tibetan Plateau stores a lot of freshwater and is, likewise other mountain regions in the world, particularly vulnerable to climate change. Changes in the water cycle come with changes in the frequency and magnitude of precipitation and increased risks for natural hazards in the populated downstream regions. The goal of my research is to improve our understanding of atmospheric processes that control precipitation in this particular region, because this is a pre-requisite to robustly assess future changes. Apart from the societal need of regional climate change impact assessment, this thesis addresses a major scientific knowledge gap, as we know very little about precipitation in mountain regions. 
 
 
 ![](colo.jpg)
@@ -24,8 +29,7 @@ One objective in my research is to disentangle what happens on different spatial
 To understand how such processes are affected by anthropogenically forced climate change, I am working with
 convection-permitting (aka kilometer-scale) climate simulations. These numerical model simulations are run at a high spatial resolution (2-9km)
 and have the potential to better represent mesoscale processes and small-scale features that are not resolved by conventional regional climate models. 
-Our lab is coordinating the [CORDEX Flagship Pilot Study](https://cordex.org/experiment-guidelines/flagship-pilot-studies/) [Convection-Permitting Third Pole](http://rcg.gvc.gu.se/cordex_fps_cptp/) with the goal to systematically assess
-benefits and limitations of convection-permitting simulations in the Tibetan Plateau region. 
+Our lab is coordinating the [CORDEX Flagship Pilot Study](https://cordex.org/experiment-guidelines/flagship-pilot-studies/) [Convection-Permitting Third Pole](http://rcg.gvc.gu.se/cordex_fps_cptp/) with the goal to systematically assess benefits and limitations of convection-permitting simulations in the Tibetan Plateau region. In my future research, I want to better leverage satellite observations to understand how well current convection-permitting models capture different types of convective storms. 
 
 
 ## Development of data analysis tools 
