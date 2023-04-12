@@ -18,10 +18,11 @@ Minola, L., Zhang, G., Ou, T., **Kukulies, J.**, Curio, J., Guijarro, J. A., Den
 
 **Kukulies, J**, Prein, A.,  Curio, J. and Chen, D. (2022). Kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau: Implications for climate simulations. Under review for *Journal of Climate*. 
 
+
 ## Peer-reviewed (chronologically backwards)
 
 
-**Kukulies, J**, Lai, H.,  Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S., Ou, T. and Chen, D. Mesoscale convective systems in the Third Pole region: Characteristics, Mechanisms and Impact on precipitation. Accepted for *Frontiers in Earth Science*. [Access paper here](https://www.frontiersin.org/articles/10.3389/feart.2023.1143380/full) | <span class="__dimensions_badge_embed__" data-doi=" 10.3389/feart.2023.1143380" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+**Kukulies, J**, Lai, H.,  Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S., Ou, T. and Chen, D. Mesoscale convective systems in the Third Pole region: Characteristics, Mechanisms and Impact on precipitation. *Frontiers in Earth Science*. [Access paper here](https://www.frontiersin.org/articles/10.3389/feart.2023.1143380/full) | <span class="__dimensions_badge_embed__" data-doi=" 10.3389/feart.2023.1143380" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
 
 Ou, T., Chen, D., Tang, J., Lin, C., Wang X., **Kukulies, J.** and Lai, H (2023). Wet bias of summer precipitation in the northwestern Tibetan Plateau in ERA5 is linked to weakened lower-level southerly wind over the plateau. *Climate Dynamics*, 1-15. [ Access paper here](https://link.springer.com/article/10.1007/s00382-023-06672-3) | <span class="__dimensions_badge_embed__" data-doi="10.1007/s00382-023-06672-3" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
