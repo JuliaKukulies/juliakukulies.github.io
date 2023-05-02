@@ -4,7 +4,7 @@ title: "Research interests"
 ---
 
 
-My long-term scientific goal is to **understand, model, and predict convective storms**. 
+My long-term scientific goal is to **understand, model, and predict convective storms** and their impact on precipitation other water cycle components. 
 
 
 ## Ph.D. thesis
