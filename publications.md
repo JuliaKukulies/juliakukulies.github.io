@@ -10,8 +10,9 @@ td, th {
    </style>
    
    
-
 ## Forthcoming (submitted or under review) 
+
+Sokolowsky, G. A., Freeman S. W., Jones , W., **Kukulies, J.**, Senf, F., Marinescu, P. J., Heikenfeld, M., Brunner, K., Bruning, E., Collis, S., Jackson, R.,Leung, G., Pfeifer,N., Raut, B., Saleeby, S., Stier, P.  and van den Heever, S. C. tobac v1.5: Introducing Fast 3D Tracking, Splits and Mergers, and Other Enhancements for Identifying and Analysing Meteorological Phenomena. Submitted to **Geoscientific Model Development**. [Access pre-print here](). 
 
 
 Yu, H.,  Prein A.F., Qi, D., **Kukulies, J** and Wang, K. Kilometer-Scale Simulations Can Outperform Satellite Based Observations in Heavy Rainfall Characteristics. Under review for *Bulletin of the AMS*. 
