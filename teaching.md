@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-## Master courses @ University of Gothenburg
+## Graduate courses @ University of Gothenburg
 
 
 * **Climate Modeling (GVN465)**
@@ -18,7 +18,7 @@ Course coordinator: Prof. Deliang Chen;
 Autumn 2018 
 
 
-## Bachelor courses @ University of Gothenburg
+## Undergraduate courses @ University of Gothenburg
 
 
 * **Advanced climate data analysis [(GVN370)](https://www.gu.se/en/study-gothenburg/advanced-climate-data-analysis-gvn370)** 
