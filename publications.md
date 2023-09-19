@@ -10,16 +10,17 @@ td, th {
    </style>
 
 
-
 ## Forthcoming (submitted or under review) 
 
 Sokolowsky, G. A., Freeman S. W., Jones , W., **Kukulies, J.**, Senf, F., Marinescu, P. J., Heikenfeld, M., Brunner, K., Bruning, E., Collis, S., Jackson, R.,Leung, G., Pfeifer,N., Raut, B., Saleeby, S., Stier, P.  and van den Heever, S. C., (2023). tobac v1.5: Introducing Fast 3D Tracking, Splits and Mergers, and Other Enhancements for Identifying and Analysing Meteorological Phenomena. Submitted to *Geoscientific Model Development*. [Access pre-print here](). 
 
 Yu, H.,  Prein A.F., Qi, D., **Kukulies, J** and Wang, (2023). K. Kilometer-Scale Simulations Can Outperform Satellite Based Observations in Heavy Rainfall Characteristics. Under review for *Bulletin of the AMS*. 
 
-Minola, L., Zhang, G., Ou, T., **Kukulies, J.**, Curio, J., Guijarro, J. A., Deng, K., Azorin-Molina, C.,  Shen, C., Pezzoli, A. and Chen, D. (2023). Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau. Accepted for publication. *Climate Dynamics*. [Access pre-print here](https://www.researchsquare.com/article/rs-2470952/v1)
 
 ## Peer-reviewed (chronologically backwards)
+
+Minola, L., Zhang, G., Ou, T., **Kukulies, J.**, Curio, J., Guijarro, J. A., Deng, K., Azorin-Molina, C.,  Shen, C., Pezzoli, A. and Chen, D. (2023). Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau. *Climate Dynamics*. [Access paper here](https://link.springer.com/article/10.1007/s00382-023-06931-3#Sec16) | <span class="__dimensions_badge_embed__" data-doi="10.1007/s00382-023-06931-3" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+
 
 Freeman, S. W., Brunner, K., Jones, W. K., **Kukulies, J.**, Senf, F., Stier, P. and van den Heever, S. C., (2023). Advancing our Understanding of Cloud Processes and Their Role in the Earth System through Cloud Object Tracking. *Bulletin of the AMS*. [Access paper here](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0204.1/BAMS-D-23-0204.1.xml?tab_body=fulltext-display) | <span class="__dimensions_badge_embed__" data-doi="10.1175/BAMS-D-23-0204.1" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
