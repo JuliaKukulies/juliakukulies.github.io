@@ -12,10 +12,9 @@ td, th {
 
 ## Forthcoming (submitted or under review) 
 
-Sokolowsky, G. A., Freeman S. W., Jones , W., **Kukulies, J.**, Senf, F., Marinescu, P. J., Heikenfeld, M., Brunner, K., Bruning, E., Collis, S., Jackson, R.,Leung, G., Pfeifer,N., Raut, B., Saleeby, S., Stier, P.  and van den Heever, S. C., (2023). tobac v1.5: Introducing Fast 3D Tracking, Splits and Mergers, and Other Enhancements for Identifying and Analysing Meteorological Phenomena. Submitted to *Geoscientific Model Development*. [Access pre-print here](). 
+Sokolowsky, G. A., Freeman S. W., Jones , W., **Kukulies, J.**, Senf, F., Marinescu, P. J., Heikenfeld, M., Brunner, K., Bruning, E., Collis, S., Jackson, R.,Leung, G., Pfeifer,N., Raut, B., Saleeby, S., Stier, P.  and van den Heever, S. C., (2023). tobac v1.5: Introducing Fast 3D Tracking, Splits and Mergers, and Other Enhancements for Identifying and Analysing Meteorological Phenomena. Submitted to *Geoscientific Model Development*. [Access pre-print here](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1722/). 
 
 Yu, H.,  Prein A.F., Qi, D., **Kukulies, J** and Wang, (2023). K. Kilometer-Scale Simulations Can Outperform Satellite Based Observations in Heavy Rainfall Characteristics. Under review for *Bulletin of the AMS*. 
-
 
 ## Peer-reviewed (chronologically backwards)
 
@@ -24,7 +23,9 @@ Minola, L., Zhang, G., Ou, T., **Kukulies, J.**, Curio, J., Guijarro, J. A., Den
 
 Freeman, S. W., Brunner, K., Jones, W. K., **Kukulies, J.**, Senf, F., Stier, P. and van den Heever, S. C., (2023). Advancing our Understanding of Cloud Processes and Their Role in the Earth System through Cloud Object Tracking. *Bulletin of the AMS*. [Access paper here](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0204.1/BAMS-D-23-0204.1.xml?tab_body=fulltext-display) | <span class="__dimensions_badge_embed__" data-doi="10.1175/BAMS-D-23-0204.1" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
+
 **Kukulies, J**, Prein, A.,  Curio, J. and Chen, D. (2023). Kilometer-scale multi-model and multi-physics ensemble simulations of a mesoscale convective system in the lee of the Tibetan Plateau: Implications for climate simulations. *Journal of Climate*. [Access paper here](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0240.1/JCLI-D-22-0240.1.xml?tab_body=abstract-display) | <span class="__dimensions_badge_embed__" data-doi="10.1175/JCLI-D-22-0240.1" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+
 
 **Kukulies, J**, Lai, H.,  Curio, J., Feng, Z., Lin, C., Li, P., Sugimoto, S., Ou, T. and Chen, D. (2023). Mesoscale convective systems in the Third Pole region: Characteristics, Mechanisms and Impact on precipitation. *Frontiers in Earth Science*. [Access paper here](https://www.frontiersin.org/articles/10.3389/feart.2023.1143380/full) | <span class="__dimensions_badge_embed__" data-doi="10.3389/feart.2023.1143380" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
 
