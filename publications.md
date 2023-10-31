@@ -12,7 +12,7 @@ td, th {
 
 ## Forthcoming (submitted or under review) 
 
-**Kukulies, J.*, Li, W., Chen, D (2023). Mean flow and eddy summer moisture transport downwind of the Tibetan Plateau in reanalysis data and a regional climate simulation. Submitted to *Climate Dynamics*. [Access preprint here]()
+**Kukulies, J.**, Li, W., Chen, D (2023). Mean flow and eddy summer moisture transport downwind of the Tibetan Plateau in reanalysis data and a regional climate simulation. Submitted to *Climate Dynamics*. [Access preprint here]()
 
 
 Prein, A., Feng, Z., Fiolleau, T., Moon, Z., Nunez Ocasio, K., **Kukulies, J.**, Roca, R., Varble, A., Rehnebin, A., Liu, C., Ikeda, K., Mu, Y. and Rasmussen, R (2023). Km-Scale Simulations of Mesoscale Convective Systems (MCSs) Over South America - A Feature Tracker Intercomparison. Submitted to *JGR Atmosphere* [Access pre-print here](https://essopenarchive.org/users/489196/articles/673630-km-scale-simulations-of-mesoscale-convective-systems-mcss-over-south-america-a-feature-tracker-intercomparison).
