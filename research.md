@@ -19,7 +19,7 @@ To understand the role of convective storms in our climate system, I am working 
 
 ![](satellite_clouds_global.png)
 
-## Microscale, mesoscale and large-scale atmospheric processes that affect convective precipitation
+## Microscale, mesoscale and large-scale atmospheric processes affecting convective precipitation
 
 A major goal of my research is to disentangle what happens on different temporal and spatial scales. This is because I am interested in the broader question of how global warming and all the climatic changes that come with it affect our day-to-day weather patterns. I am, for example, interested in how large-scale processes like monsoon-driven atmospheric water vapor transport affect the occurrence and intensity of convective storms. I am particularly interested in the physical processes that influence **mesoscale convective systems (MCSs)** - large complexes of deep convective storms that produce large amounts of precipitation. I am currently investigating the how well we simulate the **precipitation efficiency of MCSs** at different spatial resolutions and what the potential climate change effects on this are since precipitation efficiency is another factor that could be important for future changes in precipitation. 
 
