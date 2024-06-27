@@ -12,7 +12,9 @@ td, th {
 
 ## Forthcoming (submitted or under review) 
 
-**Kukulies, J.**, Li, W., Chen, D (2023). Mean flow and eddy summer moisture transport downwind of the Tibetan Plateau in reanalysis data and a regional climate simulation. Under review for *Climate Dynamics*. [Access preprint here](https://www.researchsquare.com/article/rs-3529876/v1)
+**Kukulies, J.**, Prein, A. F., H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. *JGR Atmosphere*. [Access preprint here]()
+
+**Kukulies, J.**, Li, W., Chen, D (2023). Mean flow and eddy summer moisture transport downwind of the Tibetan Plateau in reanalysis data and a regional climate simulation. Accepted for *Climate Dynamics*. [Access preprint here](https://www.researchsquare.com/article/rs-3529876/v1)
 
 ## Peer-reviewed (chronologically backwards)
 
