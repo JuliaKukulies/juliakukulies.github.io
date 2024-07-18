@@ -12,7 +12,7 @@ td, th {
 
 ## Forthcoming (submitted or under review) 
 
-**Kukulies, J.**, Prein, A. F., H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. *JGR Atmosphere*. [Access preprint here]()
+**Kukulies, J.**, Prein, A. F., H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. *JGR Atmosphere*. [Access preprint here](https://essopenarchive.org/users/799143/articles/1200653-simulating-precipitation-efficiency-across-the-deep-convective-gray-zone)
 
 **Kukulies, J.**, Li, W., Chen, D (2024). Mean flow and eddy summer moisture transport downwind of the Tibetan Plateau in reanalysis data and a regional climate simulation. Accepted for *Climate Dynamics*. [Access preprint here](https://www.researchsquare.com/article/rs-3529876/v1)
 
