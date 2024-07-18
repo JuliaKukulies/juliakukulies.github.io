@@ -10,7 +10,7 @@ td, th {
    </style>
 
 
-## Forthcoming (submitted or under review) 
+## Forthcoming (under review) 
 
 **Kukulies, J.**, Prein, A. F., and H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. Under review for *JGR Atmosphere*. [Access preprint here](https://essopenarchive.org/users/799143/articles/1200653-simulating-precipitation-efficiency-across-the-deep-convective-gray-zone)
 
