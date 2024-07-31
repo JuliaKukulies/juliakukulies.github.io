@@ -18,7 +18,7 @@ td, th {
 
 ### 2024 
 
-**Kukulies, J.**, Li, W., Chen, D (2024). Mean flow and eddy summer moisture transport downwind of the Tibetan Plateau in reanalysis data and a regional climate simulation. *Climate Dynamics*. [Access here](https://www.researchsquare.com/article/rs-3529876/v1) | <span class="__dimensions_badge_embed__" data-doi="10.21203/rs.3.rs-3529876/v1" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+**Kukulies, J.**, Li, W., Chen, D (2024). Mean flow and eddy summer moisture transport downwind of the Tibetan Plateau in reanalysis data and a regional climate simulation. *Climate Dynamics*. [Access here](https://link.springer.com/article/10.1007/s00382-024-07324-w) | <span class="__dimensions_badge_embed__" data-doi="10.1007/s00382-024-07324-w" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
  
 Prein, A., Feng, Z., Fiolleau, T., Moon, Z., Nunez Ocasio, K., **Kukulies, J.**, Roca, R., Varble, A., Rehbein, A., Liu, C., Ikeda, K., Mu, Y. and Rasmussen, R (2024). Km-Scale Simulations of Mesoscale Convective Systems (MCSs) Over South America - A Feature Tracker Intercomparison. *JGR Atmosphere* [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD040254) | <span class="__dimensions_badge_embed__" data-doi="10.1029/2023JD040254" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
