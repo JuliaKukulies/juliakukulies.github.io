@@ -12,7 +12,7 @@ td, th {
 
 ## Forthcoming (under review) 
 
-Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R. Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. Submitted to *JGR Atmosphere*. [Access preprint here]()
+Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R (2024). Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. Submitted to *JGR Atmosphere*. [Access preprint here]()
 
 
 **Kukulies, J.**, Prein, A. F., and H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. Under review for *JGR Atmosphere*. [Access preprint here](https://essopenarchive.org/users/799143/articles/1200653-simulating-precipitation-efficiency-across-the-deep-convective-gray-zone)
