@@ -3,13 +3,6 @@ layout: page
 title: "Research interests"
 ---
 
-<style>
-img {
-    width: 100%;
-    height: auto;
-}
-</style>
-
 
 My long-term scientific goal is to **understand, model, and predict convective storms** and how their **impact on precipitation** and other water cycle components changes as a response to **global warming**. 
 
@@ -25,7 +18,7 @@ In my [Ph.D. thesis](https://gupea.ub.gu.se/handle/2077/75117?show=full), I have
 To understand the role of convective storms in our climate system, I am working with kilometer-scale (km) models that are partly able to resolve **convective processes and storm dynamics**. These numerical model simulations are run at a high spatial resolution (1-10km horizontal grid spacing) and have the potential to better represent mesoscale processes and small-scale features that are not resolved by conventional regional and global climate models. I am involved in the [CORDEX Flagship Pilot Study](https://cordex.org/experiment-guidelines/flagship-pilot-studies/) [Convection-Permitting Third Pole](http://rcg.gvc.gu.se/cordex_fps_cptp/) and the [South America Affinity Group](https://ral.ucar.edu/projects/south-america-affinity-group-saag) where we assess benefits and limitations of km-scale simulations in particular regions. For my postdoctoral research at NCAR, I aim to better **leverage satellite observations and come up with new methods to evaluate how well current km-scale models** capture different types of convective storms and their impact on precipitation. 
 
 
-![Satellite Clouds](satellite_clouds_global.png)
+![Satellite Clouds](satellite_clouds_global.png){: style="width:100%; height:auto;"}
 
 
 ## Microscale, mesoscale and large-scale atmospheric processes affecting convective precipitation
