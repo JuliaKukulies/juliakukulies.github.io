@@ -3,7 +3,7 @@ layout: page
 title: "Research interests"
 ---
 
-My long-term scientific goal is to **understand, model, and predict convective storms** and how their impact on precipitation and other water cycle components changes as a response to global warming. 
+My long-term scientific goal is to **understand, model, and predict convective storms** and how their **impact on precipitation** and other water cycle components changes as a response to **global warming**. 
 
 ![](tibetan_plateau_clouds.jpeg)
 
