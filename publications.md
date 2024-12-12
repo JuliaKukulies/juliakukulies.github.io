@@ -16,12 +16,11 @@ Pfreundschuh, S., **Kukulies**, J., Amell, A., Hallborn, H., May, E., & Eriksson
 
 Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R (2024). Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. Submitted to *JGR Atmosphere*. [Access preprint here](https://doi.org/10.22541/essoar.172405876.67413040/v1)
 
-**Kukulies, J.**, Prein, A. F., and H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. Under review for *JGR Atmosphere*. [Access preprint here](https://essopenarchive.org/users/799143/articles/1200653-simulating-precipitation-efficiency-across-the-deep-convective-gray-zone)
-
-
 ## Peer-reviewed (chronologically backwards)
 
 ### 2024 
+
+**Kukulies, J.**, Prein, A. F., and H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. Under review for *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD041924) | <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD041924" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
 **Kukulies, J.**, Li, W., Chen, D (2024). Mean flow and eddy summer moisture transport over East Asia in reanalysis data and a regional climate simulation. *Climate Dynamics*. [Access here](https://link.springer.com/article/10.1007/s00382-024-07324-w) | <span class="__dimensions_badge_embed__" data-doi="10.1007/s00382-024-07324-w" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
  
