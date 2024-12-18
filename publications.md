@@ -20,7 +20,7 @@ Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moo
 
 ### 2024 
 
-**Kukulies, J.**, Prein, A. F., and H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. Under review for *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD041924) | <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD041924" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+**Kukulies, J.**, Prein, A. F., and H. Morrison (2024). Simulating precipitation efficiency across the deep convective gray zone. *Journal of Geophysical Research: Atmospheres*, 129(24), e2024JD041924. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD041924) | <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD041924" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
 **Kukulies, J.**, Li, W., Chen, D (2024). Mean flow and eddy summer moisture transport over East Asia in reanalysis data and a regional climate simulation. *Climate Dynamics*. [Access here](https://link.springer.com/article/10.1007/s00382-024-07324-w) | <span class="__dimensions_badge_embed__" data-doi="10.1007/s00382-024-07324-w" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
  
