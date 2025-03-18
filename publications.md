@@ -14,11 +14,13 @@ td, th {
 
 Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. Submitted to *JGR Atmosphere* 
 
-Pfreundschuh, S., **Kukulies**, J., Amell, A., Hallborn, H., May, E., & Eriksson, P. (2024). The Chalmers Cloud Ice Climatology: A novel, robust climate record of frozen cloud hydrometeor concentrations. Accepted for publication in *JGR Atmosphere*. Authorea Preprints. [Access preprint here](https://essopenarchive.org/users/799143/articles/1229660-the-chalmers-cloud-ice-climatology-a-novel-robust-climate-record-of-frozen-cloud-hydrometeor-concentrations) 
-
 Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R (2024). Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. Submitted to *JGR Atmosphere*. [Access preprint here](https://doi.org/10.22541/essoar.172405876.67413040/v1)
 
 ## Peer-reviewed (chronologically backwards)
+
+### 2025 
+
+Pfreundschuh, S., **Kukulies**, J., Amell, A., Hallborn, H., May, E., & Eriksson, P. (2025). The Chalmers Cloud Ice Climatology: A novel, robust climate record of frozen cloud hydrometeor concentrations. *JGR Atmosphere* [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042618)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD042618" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
 ### 2024 
 
