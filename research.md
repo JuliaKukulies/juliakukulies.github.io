@@ -3,7 +3,7 @@ layout: page
 title: "Research interests"
 ---
 
-My research aims to **quantify and predict the effects of climate change on regional-to-global precipitation dynamics**, with a focus on how warming modifies the intensity, frequency, and spatial distribution of rainfall extremes and their cascading impacts on the hydrological cycle. To achieve this, I integrate high-resolution, convection-permitting climate modeling (e.g., MPAS, WRF) with multi-platform satellite observations (e.g., GPM, CloudSat) and advanced diagnostic tools, enabling a process-oriented understanding of precipitation shifts under anthropogenic forcing.
+My research aims to **quantify and predict the effects of climate change on regional-to-global precipitation dynamics**, with a focus on how warming modifies the intensity, frequency, and spatial distribution of rainfall extremes and their cascading impacts on the hydrological cycle. To achieve this, I integrate **high-resolution, convection-permitting climate modeling** (e.g., MPAS, WRF) with **multi-platform satellite observations** (e.g., GPM, CloudSat) and advanced diagnostic tools, enabling a process-oriented understanding of precipitation shifts under anthropogenic forcing.
 
 ![Satellite Clouds](satellite_clouds.png)
 
