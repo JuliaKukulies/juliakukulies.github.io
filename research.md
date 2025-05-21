@@ -24,7 +24,7 @@ data formats!), I have developed a huge appreciation for open source software to
 
 * [MCS tracking in satellite observations over East Asia](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JD035279#:~:text=Mesoscale%20convective%20systems%20(MCSs)%20have,well%20understood%20in%20this%20location.)
 * [MCS tracking in km-scale model simulations over the Tibetan Plateau](https://journals.ametsoc.org/view/journals/clim/36/17/JCLI-D-22-0240.1.xml)
-* [MCS tracking intercomparison in global km-scale models](https://essopenarchive.org/users/532574/articles/1215683-mesoscale-convective-systems-tracking-method-intercomparison-mcsmip-application-to-dyamond-global-km-scale-simulations)
+* [MCS tracking intercomparison in global km-scale models](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042204)
 * [MCS tracking intercomparison in km-scale model simulations over South America](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD040254)
 
 
