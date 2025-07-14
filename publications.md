@@ -12,7 +12,7 @@ td, th {
 
 ## Forthcoming (under review) 
 
-**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Submitted to *JGR Atmosphere. DOI: 10.22541/essoar.175244608.88599200/v1. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175244608.88599200/v1) 
+**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Submitted to *JGR Atmosphere*. DOI: 10.22541/essoar.175244608.88599200/v1. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175244608.88599200/v1) 
 
 Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. Submitted to *JGR Atmosphere* 
 
