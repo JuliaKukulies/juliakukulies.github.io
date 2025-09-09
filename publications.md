@@ -16,7 +16,7 @@ td, th {
 
 Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. Submitted to *JGR Atmosphere* 
 
-Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2025): Extending MPAS-NoahMP model capability beyond weather timescale: assessing land-atmosphere interactions for future subseasonal-to-seasonal applications, which has been submitted for possible publication in Journal of Advances in Modeling Earth Systems. Submitted to *JAMES* 
+Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2025): Extending MPAS-NoahMP model capability beyond weather timescale: assessing land-atmosphere interactions for future subseasonal-to-seasonal applications, which has been submitted for possible publication in Journal of Advances in Modeling Earth Systems. Submitted to *JGR Atmosphere* 
 
 ## Peer-reviewed (chronologically backwards)
 
