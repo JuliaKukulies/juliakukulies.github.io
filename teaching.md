@@ -57,7 +57,9 @@ Course coordinator: Dr. Urban Olsson;
 Autumn 2018, Autumn 2019, Autumn 2020, Autumn 2021
 
 
-## Thesis supervision 
+## Thesis supervision and mentoring students 
+
+* Shanna Chamchitt (NCAR's [SOARS program](https://soars.ucar.edu/), 2025): *Using satellite observations to measure non-propagating gravity waves in tropical cyclones*
 
 * Benjamin Odenman Holmberg (Master thesis, 2022): *[Analysis of mesoscale weather systems in the Tibetan plateau region at different
 resolution using ERA5, HAR and WRF](https://gupea.ub.gu.se/handle/2077/73503)*
