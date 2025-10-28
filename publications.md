@@ -14,13 +14,13 @@ td, th {
 
 **Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Submitted to *JGR Atmosphere*. DOI: 10.22541/essoar.175244608.88599200/v1. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175244608.88599200/v1) 
 
-Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. Submitted to *JGR Atmosphere* 
-
-Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2025): Extending MPAS-NoahMP model capability beyond weather timescale: assessing land-atmosphere interactions for future subseasonal-to-seasonal applications, which has been submitted for possible publication in Journal of Advances in Modeling Earth Systems. Submitted to *JGR Atmosphere* 
+Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2025): Extending MPAS-NoahMP model capability beyond weather timescale: assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. Submitted to *JGR Atmosphere* 
 
 ## Peer-reviewed (chronologically backwards)
 
 ### 2025 
+
+Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. Accepted in *JGR Atmosphere*. 
 
 Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R (2024). Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. Submitted to *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD042204)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD042204" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
