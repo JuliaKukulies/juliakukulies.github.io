@@ -12,17 +12,20 @@ td, th {
 
 ## Forthcoming (under review) 
 
-**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Submitted to *JGR Atmosphere*. DOI: 10.22541/essoar.175244608.88599200/v1. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175244608.88599200/v1) 
+**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Under review for *JGR Atmosphere*. DOI: 10.22541/essoar.175244608.88599200/v1. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175244608.88599200/v1) 
 
-Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2025): Extending MPAS-NoahMP model capability beyond weather timescale: assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. Submitted to *JGR Atmosphere* 
+Gettelman, A., P.L. Vidale, B. Stevens, F. Ziemen, Z. Feng, H. Konow, T. Kolling, L. Kluft, W. Jones, S. Pasqualetto, Y. Wu, S. Brose, J. Clyne, L. Fita, S. Green, L. Harris, M.A. Hart, J. **Kukulies**, B. Medeiros, T.M. Merlis, M. Muetzelfeldt, R. Pincus, R.P. da Rocha, M. Satoh, H. Su, D. Takasuka, C. Terai, P.A. Ullrich and T. Zhou (2025). "Hacking km-scale models: A participative model for climate information". Under review for *Bull. Amer. Meteor. Soc.*
+
+Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2025): Extending MPAS-NoahMP model capability beyond weather timescale: Assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. Under review for *JGR Atmosphere*  
+
 
 ## Peer-reviewed (chronologically backwards)
 
 ### 2025 
 
-Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. Accepted in *JGR Atmosphere*. 
+Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD043842| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD043842" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
-Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R (2024). Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. Submitted to *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD042204)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD042204" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R (2024). Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD042204)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD042204" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
 Pfreundschuh, S., **Kukulies**, J., Amell, A., Hallborn, H., May, E., & Eriksson, P. (2025). The Chalmers Cloud Ice Climatology: A novel, robust climate record of frozen cloud hydrometeor concentrations. *JGR Atmosphere* [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042618)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD042618" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
