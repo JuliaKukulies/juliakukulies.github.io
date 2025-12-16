@@ -27,7 +27,7 @@ Tan, X., Cheng, Y., Chao, Q., **Kukulies**, J., Bettolli, M.L., Chen, D., (2025)
 
 ### 2025 
 
-Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD043842| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD043842" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+Mu, Y., Jones, C., Carvalho, Leila M. V., **Kukulies**, J., Prein, A. F., Xue, L., Liu, C (2025). Impacts of Northerly Low-level Jets on Mesoscale Convective Systems East of the Andes. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD043842)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD043842" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
 Feng, Z.,  Prein, A., **Kukulies**, J., Fiolleau, T., Jones, W., Maybee, B., Moon, Z. L., Núñez Ocasio, K. M., Dong, W., Molina, M. J., Albright, M. J., Feng, R., Song, J., Song, F., Leung, R., Varble, A. C., Klein, C., Roca, R (2024). Mesoscale Convective Systems tracking Method Intercomparison (MCSMIP): Application to DYAMOND Global km-scale Simulations. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD042204)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2024JD042204" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
