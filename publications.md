@@ -21,7 +21,7 @@ Dong, W., Chen. D, Harris, L., Huang, X., **Kukulies**, J., Li, P., Lin, Y., Luo
 
 ### 2026 
 
-**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Under review for *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD044800)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD044800" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
+**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD044800)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD044800" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
 
 Tan, X., Cheng, Y., Chao, Q., **Kukulies**, J., Bettolli, M.L., Chen, D., (2025): COP30 in Belém: Ten years after Paris and the achievements and shortfalls of global climate governance, *The Innovation (2026)*. [Access here](https://doi.org/10.1016/j.xinn.2025.101218)| <span class="__dimensions_badge_embed__" data-doi="10.1016/j.xinn.2025.101218" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
 
