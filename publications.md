@@ -9,10 +9,7 @@ td, th {
    }
    </style>
 
-
 ## Forthcoming (under review) 
-
-**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Under review for *JGR Atmosphere*. DOI: 10.22541/essoar.175244608.88599200/v1. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175244608.88599200/v1) 
 
 Gettelman, A., P.L. Vidale, B. Stevens, F. Ziemen, Z. Feng, H. Konow, T. Kolling, L. Kluft, W. Jones, S. Pasqualetto, Y. Wu, S. Brose, J. Clyne, L. Fita, S. Green, L. Harris, M.A. Hart, **Kukulies**, J., Medeiros, B., Merlis, T.M., M. Muetzelfeldt, M., Pincus, R. da Rocha,  R.P.., Satoh, M., Su, H., Takasuka, D., Terai, C., Ullrich P.A., and Zhou, T. (2025). "Hacking km-scale models: A participative model for climate information". Under review for *Bull. Amer. Meteor. Soc.*
 
@@ -23,6 +20,8 @@ Dong, W., Chen. D, Harris, L., Huang, X., **Kukulies**, J., Li, P., Lin, Y., Luo
 ## Peer-reviewed (chronologically backwards)
 
 ### 2026 
+
+**Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. Under review for *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD044800)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD044800" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
 
 Tan, X., Cheng, Y., Chao, Q., **Kukulies**, J., Bettolli, M.L., Chen, D., (2025): COP30 in Belém: Ten years after Paris and the achievements and shortfalls of global climate governance, The Innovation (2026), doi: https://doi.org/10.1016/j.xinn.2025.101218.
 
