@@ -11,11 +11,13 @@ td, th {
 
 ## Forthcoming (under review) 
 
-Gettelman, A., P.L. Vidale, B. Stevens, F. Ziemen, Z. Feng, H. Konow, T. Kolling, L. Kluft, W. Jones, S. Pasqualetto, Y. Wu, S. Brose, J. Clyne, L. Fita, S. Green, L. Harris, M.A. Hart, **Kukulies**, J., Medeiros, B., Merlis, T.M., M. Muetzelfeldt, M., Pincus, R. da Rocha,  R.P.., Satoh, M., Su, H., Takasuka, D., Terai, C., Ullrich P.A., and Zhou, T. (2025). "Hacking km-scale models: A participative model for climate information". Under review for *Bull. Amer. Meteor. Soc.*
+Makgoale, T. E., Sullivan, S. C. and **Kukulies**, J. (2026): An Observational Perspective on Precipitation Efficiency of Mesoscale Convective Systems over the Asian Monsoon Region. Submitted to *EGUsphere Atmospheric Chemistry and Physics**. [Access preprint]()
 
-Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2025): Extending MPAS-NoahMP model capability beyond weather timescale: Assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. Under review for *JGR Atmosphere*. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175767377.72255512)
+Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2026): Extending MPAS-NoahMP model capability beyond weather timescale: Assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. Under review for *JGR Atmosphere*. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175767377.72255512)
 
-Dong, W., Chen. D, Harris, L., Huang, X., **Kukulies**, J., Li, P., Lin, Y., Luo, Y., Song, F., Wang, K., Xie Y., Yang, K. (2025): Observed and Simulated Mesoscale Convective Systems over High Mountain Asia: 1. Model Evaluation. Under review for *Journal of Climate*. 
+Dong, W., Chen. D, Harris, L., Huang, X., **Kukulies**, J., Li, P., Lin, Y., Luo, Y., Song, F., Wang, K., Xie Y., Yang, K. (2026): Observed and Simulated Mesoscale Convective Systems over High Mountain Asia: 1. Model Evaluation. Under review for *Journal of Climate*. 
+
+Gettelman, A., P.L. Vidale, B. Stevens, F. Ziemen, Z. Feng, H. Konow, T. Kolling, L. Kluft, W. Jones, S. Pasqualetto, Y. Wu, S. Brose, J. Clyne, L. Fita, S. Green, L. Harris, M.A. Hart, **Kukulies**, J., Medeiros, B., Merlis, T.M., M. Muetzelfeldt, M., Pincus, R. da Rocha,  R.P.., Satoh, M., Su, H., Takasuka, D., Terai, C., Ullrich P.A., and Zhou, T. (2026). "Hacking km-scale models: A participative model for climate information". Accepted for *Bull. Amer. Meteor. Soc.*
 
 ## Peer-reviewed (chronologically backwards) 
 
