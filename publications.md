@@ -11,7 +11,9 @@ td, th {
 
 ## Forthcoming (under review) 
 
-Makgoale, T. E., Sullivan, S. C. and **Kukulies**, J. (2026): An Observational Perspective on Precipitation Efficiency of Mesoscale Convective Systems over the Asian Monsoon Region. Submitted to *EGUsphere Atmospheric Chemistry and Physics**. [Access preprint]()
+Mu, Y., Jones, C., Carvalho, L., **Kukulies**, J., Prein, A. F. ,	Xue, L., Liu, C. (2026): Convection-Permitting Projections of Low-Level Jets and Mesoscale Convective Systems in South America. Under review for *JGR Atmosphere*. 
+
+Makgoale, T. E., Sullivan, S. C. and **Kukulies**, J. (2026): An Observational Perspective on Precipitation Efficiency of Mesoscale Convective Systems over the Asian Monsoon Region. Under review for *EGUsphere Atmospheric Chemistry and Physics*.
 
 Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2026): Extending MPAS-NoahMP model capability beyond weather timescale: Assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. Under review for *JGR Atmosphere*. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175767377.72255512)
 
