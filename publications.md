@@ -17,11 +17,11 @@ Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huan
 
 Dong, W., Chen. D, Harris, L., Huang, X., **Kukulies**, J., Li, P., Lin, Y., Luo, Y., Song, F., Wang, K., Xie Y., Yang, K. (2026): Observed and Simulated Mesoscale Convective Systems over High Mountain Asia: 1. Model Evaluation. Under review for *Journal of Climate*. 
 
-Gettelman, A., P.L. Vidale, B. Stevens, F. Ziemen, Z. Feng, H. Konow, T. Kolling, L. Kluft, W. Jones, S. Pasqualetto, Y. Wu, S. Brose, J. Clyne, L. Fita, S. Green, L. Harris, M.A. Hart, **Kukulies**, J., Medeiros, B., Merlis, T.M., M. Muetzelfeldt, M., Pincus, R. da Rocha,  R.P.., Satoh, M., Su, H., Takasuka, D., Terai, C., Ullrich P.A., and Zhou, T. (2026). "Hacking km-scale models: A participative model for climate information". Accepted for *Bull. Amer. Meteor. Soc.*
-
 ## Peer-reviewed (chronologically backwards) 
 
 ### 2026 
+
+Gettelman, A., P.L. Vidale, B. Stevens, F. Ziemen, Z. Feng, H. Konow, T. Kolling, L. Kluft, W. Jones, S. Pasqualetto, Y. Wu, S. Brose, J. Clyne, L. Fita, S. Green, L. Harris, M.A. Hart, **Kukulies**, J., Medeiros, B., Merlis, T.M., M. Muetzelfeldt, M., Pincus, R. da Rocha,  R.P.., Satoh, M., Su, H., Takasuka, D., Terai, C., Ullrich P.A., and Zhou, T. (2026). "Hacking km-scale models: A participative model for climate information". *Bull. Amer. Meteor. Soc.* [Access here](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-25-0183.1/BAMS-D-25-0183.1.pdf) 
 
 **Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD044800)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD044800" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
 
