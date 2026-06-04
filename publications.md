@@ -15,13 +15,13 @@ Mu, Y., Jones, C., Carvalho, L., **Kukulies**, J., Prein, A. F. ,	Xue, L., Liu, 
 
 Makgoale, T. E., Sullivan, S. C. and **Kukulies**, J. (2026): An Observational Perspective on Precipitation Efficiency of Mesoscale Convective Systems over the Asian Monsoon Region. Under review for *EGUsphere Atmospheric Chemistry and Physics*.
 
-Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2026): Extending MPAS-NoahMP model capability beyond weather timescale: Assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. Under review for *JGR Atmosphere*. [Access preprint](https://essopenarchive.org/doi/full/10.22541/essoar.175767377.72255512)
-
 Dong, W., Chen. D, Harris, L., Huang, X., **Kukulies**, J., Li, P., Lin, Y., Luo, Y., Song, F., Wang, K., Xie Y., Yang, K. (2026): Observed and Simulated Mesoscale Convective Systems over High Mountain Asia: 1. Model Evaluation. Under review for *Journal of Climate*. 
 
 ## Peer-reviewed (chronologically backwards) 
 
 ### 2026 
+
+Zhang, Z., He, C. , Berner, J., Jaye, A., Barlage, M., Liu, C., Dudhia, J., Huang, K., Lin, T. Abolafia-Rosenzweig, R., **Kukulies**, J., Fowler, M., Richter, J. (2026): Extending MPAS-NoahMP model capability beyond weather timescale: Assessing land-atmosphere interactions for future subseasonal-to-seasonal applications. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD045334)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD045334" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
 
 **Kukulies**, J., Prein, A. F., Done, J., Stansfield, A., Rios-Berrios, R. (2025). Precipitation Efficiency by Storm Type in Km-scale Climate Simulations and Satellite Observations. *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JD044800)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2025JD044800" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
 
