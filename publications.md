@@ -9,16 +9,16 @@ td, th {
    }
    </style>
 
-## Forthcoming (under review) 
-
-Mu, Y., Jones, C., Carvalho, L., **Kukulies**, J., Prein, A. F. ,	Xue, L., Liu, C. (2026): Convection-Permitting Projections of Low-Level Jets and Mesoscale Convective Systems in South America. Under review for *JGR Atmosphere*. 
-
-Makgoale, T. E., Sullivan, S. C. and **Kukulies**, J. (2026): An Observational Perspective on Precipitation Efficiency of Mesoscale Convective Systems over the Asian Monsoon Region. Under review for *EGUsphere Atmospheric Chemistry and Physics*. [Access preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1395/)
-
 
 ## Peer-reviewed (chronologically backwards) 
 
 ### 2026 
+
+Makgoale, T. E., Sullivan, S. C. and **Kukulies**, J. (2026): An Observational Perspective on Precipitation Efficiency of Mesoscale Convective Systems over the Asian Monsoon Region. *EGUsphere Atmospheric Chemistry and Physics*. [Access here](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1395/)| <span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2026-1395)" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+
+
+Mu, Y., Jones, C., Carvalho, L., **Kukulies**, J., Prein, A. F. ,	Xue, L., Liu, C. (2026): Convection-Permitting Projections of Low-Level Jets and Mesoscale Convective Systems in South America *JGR Atmosphere*. [Access here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046766)| <span class="__dimensions_badge_embed__" data-doi="10.1029/2026JD046766" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script
+
 
 Dong, W., Chen. D, Huang, X., **Kukulies**, J., Li, P., Lin, Y., Luo, Y., Song, F., Wang, K., Xie Y., Yang, K. (2026): Observed and Simulated Mesoscale Convective Systems over High Mountain Asia: 2. Past Trend and Future Projection. *Journal of Climate*. [Access here](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0743.1/JCLI-D-25-0743.1.xml)| <span class="__dimensions_badge_embed__" data-doi="10.1175/JCLI-D-25-0743.1" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script 
 
