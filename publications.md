@@ -10,6 +10,10 @@ td, th {
    </style>
 
 
+## Submitted/ Under review 
+
+Gao, Z., Li, L., Plant, R. S., Muetzelfeldt, M. R., **Kukulies**, J. and Jiang, X. (2026): Orographic Modulation of Low-Level Flow Promotes the Rapid Intensification of Short-Duration Extreme Rainfall Downstream of the Eastern Tibetan Plateau. *Submitted to Monthly Weather Review*. 
+
 ## Peer-reviewed (chronologically backwards) 
 
 ### 2026 
