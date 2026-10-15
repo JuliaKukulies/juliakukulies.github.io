@@ -14,6 +14,8 @@ td, th {
 
 Gao, Z., Li, L., Plant, R. S., Muetzelfeldt, M. R., **Kukulies**, J. and Jiang, X. (2026): Orographic Modulation of Low-Level Flow Promotes the Rapid Intensification of Short-Duration Extreme Rainfall Downstream of the Eastern Tibetan Plateau. *Submitted to Monthly Weather Review*. 
 
+Zhang, Z., He ,C., Liu, C., Jiang, Y., Burney, J., Done, J., **Kukulies**, J., Dougherty, E., Xue, L., and Di, L. (2026). Asymmetric risks of severe convective storms to US Agriculture. *Submitted to Nature Sustainability*. 
+
 ## Peer-reviewed (chronologically backwards) 
 
 ### 2026 
