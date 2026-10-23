@@ -7,7 +7,7 @@ title: "Teaching and Supervision"
 
 * Jamie Todd (Master thesis, University of Reading, 2026): *Shear Control on Storm Entrainment and Precipitation Efficiency and its Relation to Sahelian Mesoscale Convective System Characteristics: Insights From Kilometre-Scale Simulations*
 
-* Shanna Chamchitt (NCAR's [SOARS program](https://soars.ucar.edu/), 2025): *Using satellite observations to measure non-propagating gravity waves in tropical cyclones*
+* Shanna Chamchitt (NCAR's [SOARS program](https://soars.ucar.edu/), 2025): *[Using satellite observations to measure non-propagating gravity waves in tropical cyclones](https://opensky.ucar.edu/islandora/object/manuscripts%3A44544?search_api_fulltext=shanna%20chamchitt)*
 
 * Benjamin Odenman Holmberg (Master thesis, University of Gothenburg, 2022): *[Analysis of mesoscale weather systems in the Tibetan plateau region at different
 resolution using ERA5, HAR and WRF](https://gupea.ub.gu.se/handle/2077/73503)*
