@@ -1,7 +1,27 @@
 ---
 layout: page
-title: "Teaching"
+title: "Teaching and Supervision"
 ---
+
+## Thesis supervision and mentoring students 
+
+* Jamie Todd (Master thesis, University of Reading, 2026): *Shear Control on Storm Entrainment and Precipitation Efficiency and its Relation to Sahelian Mesoscale Convective System Characteristics: Insights From Kilometre-Scale Simulations*
+
+* Shanna Chamchitt (NCAR's [SOARS program](https://soars.ucar.edu/), 2025): *Using satellite observations to measure non-propagating gravity waves in tropical cyclones*
+
+* Benjamin Odenman Holmberg (Master thesis, University of Gothenburg, 2022): *[Analysis of mesoscale weather systems in the Tibetan plateau region at different
+resolution using ERA5, HAR and WRF](https://gupea.ub.gu.se/handle/2077/73503)*
+
+* Anna Dugoul (Master thesis, University of Gothenburg, 2022): *[Characterisation of extreme precipitation events in the Sichuan Basin based on in-situ observations and their connection to mesoscale convective systems and other mesoscale disturbances](https://gupea.ub.gu.se/handle/2077/73736)*
+
+* Devashree Niraula (Master thesis, University of Gothenburg, 2021): *Assessing the role of extreme
+precipitation on the Babai river basin and its impact on the Bhari Babai Mulidiversion Project* 
+
+* Raquel Flügel (Bachelor thesis, University of Gothenburg, 2019): *Evaluating Modelled Precipitation against groundbased Observation and Satellite Data above the Tibetan Plateau* 
+
+
+
+
 
 ## Graduate courses @ University of Gothenburg
 
@@ -56,20 +76,6 @@ Spring 2019
 Course coordinator: Dr. Urban Olsson;
 Autumn 2018, Autumn 2019, Autumn 2020, Autumn 2021
 
-
-## Thesis supervision and mentoring students 
-
-* Shanna Chamchitt (NCAR's [SOARS program](https://soars.ucar.edu/), 2025): *Using satellite observations to measure non-propagating gravity waves in tropical cyclones*
-
-* Benjamin Odenman Holmberg (Master thesis, 2022): *[Analysis of mesoscale weather systems in the Tibetan plateau region at different
-resolution using ERA5, HAR and WRF](https://gupea.ub.gu.se/handle/2077/73503)*
-
-* Anna Dugoul (Master thesis, 2022): *[Characterisation of extreme precipitation events in the Sichuan Basin based on in-situ observations and their connection to mesoscale convective systems and other mesoscale disturbances](https://gupea.ub.gu.se/handle/2077/73736)*
-
-* Devashree Niraula (Master thesis, 2021): *Assessing the role of extreme
-precipitation on the Babai river basin and its impact on the Bhari Babai Mulidiversion Project* 
-
-* Raquel Flügel (Bachelor thesis, 2019): *Evaluating Modelled Precipitation against groundbased Observation and Satellite Data above the Tibetan Plateau* 
 
 
 
