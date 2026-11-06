@@ -10,7 +10,11 @@ td, th {
    </style>
 
 
-## Submitted/ Under review 
+## Under review / submitted
+
+Geerts, B.,  Afrifa F. O.T., Xue L., and **Kukulies**, J. (2026): Cold-season Embedded/emergent Convection in Frontal Systems and Its Impact on Orographic Precipitation. Part 2: Characteristics over the Interior Northwestern United States. *Submitted to JAS*
+
+Geerts, B.,  Afrifa F. O.T., Xue L., and **Kukulies**, J. (2026): Cold-season Embedded/emergent Convection in Frontal Systems and Its Impact on Orographic Precipitation: Part 1: Detection Algorithm. *Submitted to JAS*
 
 Gao, Z., Li, L., Plant, R. S., Muetzelfeldt, M. R., **Kukulies**, J. and Jiang, X. (2026): Orographic Modulation of Low-Level Flow Promotes the Rapid Intensification of Short-Duration Extreme Rainfall Downstream of the Eastern Tibetan Plateau. *Submitted to Monthly Weather Review*. 
 
